@@ -1,8 +1,6 @@
 # cat-robot-patrol
 
 
-(ID: 17)john:~/dev_ws/git_ws/cat-patrol-robot/cat-robot-patrol$ tree
-.
 ├── pinky
 │   ├── camera_stream
 │   │   ├── app.py
@@ -72,4 +70,3 @@
 └── user
     └── exe.py
 
-14 directories, 55 files
