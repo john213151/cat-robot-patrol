@@ -1,6 +1,5 @@
-# cat-robot-patrol
-
-
+```text
+.
 ├── pinky
 │   ├── camera_stream
 │   │   ├── app.py
@@ -69,3 +68,4 @@
 ├── README.md
 └── user
     └── exe.py
+```
